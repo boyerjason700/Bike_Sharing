@@ -50,3 +50,11 @@ Full analysis can be found here--> [citiBike Analysis](https://boyerjason700.git
 Based on the data, our analysis showed the bikes were most used by males, ages 25-34 with heavy use on weekdays during work communiting hours.  This would make one to believe the bikes are used as a mode of transportation to and from work for some people.  Without further analysis though, that is only an assumption.  
 - The population of Des Moines, Iowa has about 31% in the age ranges of 20-39.  This fits well with the results from the NYC data.  
 - Comparing NYC and Des Moines public transit options would be a further analysis to determine if a similar program would be a profitable venture in Des Moines.
+- Analyzing age of subscribers could be a good option to find age ranges to target for specific marketing campaigns.
+<p>
+<img width=375 height=525 src="https://user-images.githubusercontent.com/74840026/134750117-1d0ed839-bebe-484b-a805-fbf4aba4031f.png">
+</p>
+ 
+# 
+#### Contact
+E-mail: boyerjason700@gmail.com
