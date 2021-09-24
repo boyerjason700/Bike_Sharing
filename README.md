@@ -3,7 +3,7 @@
 </p>  
 
 # Overview
-After traveling to NYC and using their wonderful citiBike program, we would like to propose possible implmentation in Des Moines for the public benefit and use.  Following is an analysis using data from NYC citiBike program for August of 2019.  We will explore popular times and locations and breakdown the data by gender, age and subscrtition status and how it could benefit Des Moines.
+After traveling to NYC and using their wonderful citiBike program, we would like to propose possible implementation in Des Moines for the public benefit and use.  Following is an analysis using data from NYC citiBike program for August of 2019.  We will explore popular times and locations and breakdown the data by gender, age, and subscription status and how it could benefit Des Moines.
 
 # Results
 Full analysis can be found here--> [citiBike Analysis](https://boyerjason700.github.io/Bike_Sharing/ "citiBike Analysis")
@@ -47,7 +47,7 @@ Full analysis can be found here--> [citiBike Analysis](https://boyerjason700.git
 - Subscriber use outweighs Customer use.
 
 # Summary
-Based on the data, our analysis showed the bikes were most used by males, ages 25-34 with heavy use on weekdays during work communiting hours.  This would make one to believe the bikes are used as a mode of transportation to and from work for some people.  Without further analysis though, that is only an assumption.  
+Based on the data, our analysis showed the bikes were most used by males, ages 25-34 with heavy use on weekdays during work commuting hours.  This would make one to believe the bikes are used as a mode of transportation to and from work for some people.  Without further analysis though, that is only an assumption.  
 - The population of Des Moines, Iowa has about 31% in the age ranges of 20-39.  This fits well with the results from the NYC data.  
 - Comparing NYC and Des Moines public transit options would be a further analysis to determine if a similar program would be a profitable venture in Des Moines.
 - Analyzing age of subscribers could be a good option to find age ranges to target for specific marketing campaigns.
