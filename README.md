@@ -14,6 +14,7 @@ Full analysis can be found here--> [citiBike Analysis](https://boyerjason700.git
 <p>
  <img width=525 height=375 src="https://user-images.githubusercontent.com/74840026/134748598-988e4e47-e12e-4e6b-921c-cd33d90d915f.png">
 </p> 
+- Popular start locations could be found around tourist attractions or other forms of mass transit.
 
 #### Start times and Days:
 <p>
@@ -37,11 +38,15 @@ Full analysis can be found here--> [citiBike Analysis](https://boyerjason700.git
 <p>
   <img width=525 height=375 src="https://user-images.githubusercontent.com/74840026/134748729-b1765274-fa5b-406b-bb62-d7204613bb64.png">
 </p>
+-Average checkout time 5-6 minutes.
 
 #### Subscriber/Customer
 <p>
   <img width=525 height=375 src="https://user-images.githubusercontent.com/74840026/134748830-45f8fc6d-1aaf-4f9c-96bc-bf1d01897864.png">
 </p>
+- Subscriber use outweighs Customer use.
 
 # Summary
-
+Based on the data, our analysis showed the bikes were most used by males, ages 25-34 with heavy use on weekdays during work communiting hours.  This would make one to believe the bikes are used as a mode of transportation to and from work for some people.  Without further analysis though, that is only an assumption.  
+- The population of Des Moines, Iowa has about 31% in the age ranges of 20-39.  This fits well with the results from the NYC data.  
+- Comparing NYC and Des Moines public transit options would be a further analysis to determine if a similar program would be a profitable venture in Des Moines.
